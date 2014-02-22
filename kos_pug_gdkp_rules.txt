@@ -1,0 +1,6 @@
+**Gold Bidding Rules**
+1. I will start the bidding. Place in 'x' in chat to bid at the current price
+2. Bidding is Auction style, only one person can bid for a current price, first 'x' is it
+3. You can't bid twice in a row, Someone else has to bid at higher price
+4. I will raise bid price
+5. 95% of collected bids will be split amongst raid members at the end
